@@ -1,4 +1,4 @@
-# 🛍️ Grab MEX Assistant
+# 🛍️ GrabMeXAssistance
 
 An intelligent, chat-based AI assistant designed for Grab merchant-partners to provide real-time insights, personalized recommendations, and proactive operational alerts. Built for **UMHackathon 2025**, this solution enhances merchant productivity through smart data analytics and multilingual support.
 
