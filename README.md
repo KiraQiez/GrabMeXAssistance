@@ -35,7 +35,7 @@ This app empowers merchants with a simplified interface to:
 
 ## 🎥 Video Demo
 
-🎬 [Watch the Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_HERE)
+🎬 [Watch the Demo](https://youtu.be/869PNfnF1tM)
 
 ---
 
