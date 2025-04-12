@@ -29,7 +29,7 @@ This app empowers merchants with a simplified interface to:
 
 ## 📐 Figma Prototype
 
-🔗 [Click to view the Figma Design](https://www.figma.com/file/YOUR_LINK_HERE)
+🔗 [Click to view the Figma Design](https://www.figma.com/proto/r5HjdWqDqokpMjk41UgSl5/UM-Hackathon?node-id=0-1&t=BKDktTwiqvXG7eQj-1)
 
 ---
 
